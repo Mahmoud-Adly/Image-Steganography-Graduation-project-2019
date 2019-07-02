@@ -9,24 +9,18 @@
 
 #    Mahmoud Adly Abdel - Zaher Ahmed
 ----------------------------------------------------------------
+# Who carried out the project:
+
+Mahmoud Adly Abdel - Zaher Ahmed
 Mahmoud Zaki Abdellah Farghaly
-------------------------------
 Ahmed Abdul Ghani Abdullah
------------------------------
 Safwat Mostafa Said Mohammed
------------------------------
 Mahmoud Mohamed Abdel Rahim
--------------------------------
 Mohammed Ali Hassan Ali
--------------------------------
 Mohamed Abdel Tawab Eid Ahmed
--------------------------------
 Mohamed Abdel Rahman Issa Ibrahim
------------------------------------
 Mostafa Mohamed Ahmed Mohamed El Marghany
---------------------------------------------
 Mahmoud Ahmed Abdel-Samad
--------------------------------------------------
 
 -------------------------------------------------------------------------------
 # Abstract:
