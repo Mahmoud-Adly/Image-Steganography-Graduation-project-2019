@@ -30,7 +30,7 @@ Mahmoud Ahmed Abdel-Samad
 
 -------------------------------------------------------------------------------
 # Abstract:
------------
+
 The project divided into to appliction f5 and lsb apps
   F5 by JAVA and LSB by MATLAB
   this an application to hidden text inside image and extract text of image the include text hidden for both of application.
