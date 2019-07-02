@@ -1,12 +1,12 @@
 # Image-Steganography-Graduation-project-2019
 ----------------------------------------------------------------
 # Supervisors:
---------------
+
 #    DR. Noha Ramadan
 #    ENG. Aya Adel
 ----------------------------------------------------------------
 # TEAM Leader:
---------------
+
 #    Mahmoud Adly Abdel - Zaher Ahmed
 ----------------------------------------------------------------
 Mahmoud Zaki Abdellah Farghaly
@@ -27,6 +27,8 @@ Mostafa Mohamed Ahmed Mohamed El Marghany
 --------------------------------------------
 Mahmoud Ahmed Abdel-Samad
 -------------------------------------------------
+
+
 # Abstract:
 -----------
 The project divided into to appliction f5 and lsb apps
