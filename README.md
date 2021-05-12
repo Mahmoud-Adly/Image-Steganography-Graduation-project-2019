@@ -1,4 +1,7 @@
- Image-Steganography-Graduation-project-2019
+# Image-Steganography-Graduation-project-2019
+ 
+ ![Capture](https://user-images.githubusercontent.com/52346253/117948326-52ce4d80-b311-11eb-83fb-68d6d83b102f.GIF)
+
  --------------------------------------------
  # Abstract:
   Steganography is the art of hiding the fact that communication is taking place, by hiding information in other information. Many different carriers formats can be used, but         digital images are the most popular because of their frequency on the Internet. For hiding secret information in images, there exists a large variety of steganography           techniques some are more complex than others and all of them have respective strong and weak points.
