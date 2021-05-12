@@ -10,14 +10,14 @@
   F5 by JAVA and LSB by MATLAB. This an application to hidden text inside image and extract text of image the include text hidden for both of application.
     
 ----------------------------------------------------------------
-# Supervisors:
+# Supervisors
      DR. Noha Ramadan
      ENG. Aya Adel
 ----------------------------------------------------------------
-# Team Leader:
+# Team Leader
     Mahmoud Adly Abdel-Zaher Ahmed
 ----------------------------------------------------------------
-# Who carried out the project:
+# Who carried out the project
 
     Mahmoud Adly Abdel-Zaher Ahmed
 
@@ -80,8 +80,8 @@
 
     Conclusion
    
-    PSNR Decrease when text Increase
-    Size Image Decrease when Text Increase
+   PSNR Decrease when text Increase
+   Size Image Decrease when Text Increase
    
     Histogram for images
  
@@ -89,7 +89,6 @@
 
 -------------------------------------------------------------------------------------------------------------------------
 # Application’s User interface for LSB Techniques
-
 
     LSB-Implementation: “Hide” Window
   
