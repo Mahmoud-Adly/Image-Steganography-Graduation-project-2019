@@ -41,38 +41,38 @@ Mahmoud Ahmed Abdel-Samad
 
 -----------------------------------------------------------------------------------------------------------------
 # Image Steganography Techniques
----------------------------------
+
 ![image](https://user-images.githubusercontent.com/52346253/117949145-1b13d580-b312-11eb-9173-53591502d3cc.png)
 
 -----------------------------------------------------------------------------------------------------------------
 # F5 Technique Implementation
------------------------------
+
 ![image](https://user-images.githubusercontent.com/52346253/117949366-57dfcc80-b312-11eb-8480-d34b3cd9c58a.png)
 
 -----------------------------------------------------------------------------------------------------------------
 # F5 Technique Execution by Java
---------------------------------
-   # Algorithm
+
+    # Algorithm
    
 ![image](https://user-images.githubusercontent.com/52346253/117949510-7c3ba900-b312-11eb-84c5-1699a1d34e21.png)
 
 --------------------------------------------------------------------------------------------------------------------
 # Application’s User interface for F5 Techniques
-------------------------------------------------
+
 ![image](https://user-images.githubusercontent.com/52346253/117949803-cae94300-b312-11eb-9938-3e2ad39413a7.png)
 
 ![image](https://user-images.githubusercontent.com/52346253/117950371-67134a00-b313-11eb-9a7e-c40a2d6daef0.png)
 
 ----------------------------------------------------------------------------------------------------------------------
 # Compare between different size of hiding message inside the cover Image
---------------------------------------------------------------------------
 
-   # PSNR scales the MSE according to the image range 
-   ---------------------------------------------------
+
+    # PSNR scales the MSE according to the image range 
+  
 ![image](https://user-images.githubusercontent.com/52346253/117951270-4dbecd80-b314-11eb-9c7c-172b3ce4bc23.png)
 
-   # Compare Size
-   --------------
+    # Compare Size
+   
 ![image](https://user-images.githubusercontent.com/52346253/117950604-a5a90480-b313-11eb-8902-271431648665.png)
 
     Conclusion:
@@ -81,43 +81,43 @@ Mahmoud Ahmed Abdel-Samad
    
 
    # Histogram for images
-    ----------------------
+ 
 ![image](https://user-images.githubusercontent.com/52346253/117950739-cc673b00-b313-11eb-8915-19bce7c158a5.png)
 
 -------------------------------------------------------------------------------------------------------------------------
 # Application’s User interface for LSB Techniques
--------------------------------------------------
 
-   # LSB-Implementation: “Hide” Window
-   -----------------------------------
+
+    # LSB-Implementation: “Hide” Window
+  
    
 ![image](https://user-images.githubusercontent.com/52346253/117950982-033d5100-b314-11eb-94b7-a9c11d62e4dd.png)
 
-   # LSB-Implementation: “Extract” Window
-   --------------------------------------
+    # LSB-Implementation: “Extract” Window
+   
    
 ![image](https://user-images.githubusercontent.com/52346253/117951047-12240380-b314-11eb-824c-b2f86f763a3d.png)
 
-   # Hide message with length 500 character
-   ----------------------------------------
+    # Hide message with length 500 character
+  
    PSNR = 72.3203
    
 ![image](https://user-images.githubusercontent.com/52346253/117951425-72b34080-b314-11eb-9126-7bb8a4df3c52.png)
 
-   # Hide message with length 4000 character
-   -----------------------------------------
+    # Hide message with length 4000 character
+ 
    PSNR = 61.9974
    
 ![image](https://user-images.githubusercontent.com/52346253/117951517-89599780-b314-11eb-8d13-feb2c756cb1d.png)
 
-   # Hide message with length 32000 character
-   ------------------------------------------
+    # Hide message with length 32000 character
+  
    PSNR = 52.5338
 
 ![image](https://user-images.githubusercontent.com/52346253/117951593-9a0a0d80-b314-11eb-9630-74d32c7e845f.png)
 
-   # Compare between different size of hiding message inside the cover Image
-   -------------------------------------------------------------------------
+    # Compare between different size of hiding message inside the cover Image
+   
 
 ![Compare](https://user-images.githubusercontent.com/52346253/117952124-23214480-b315-11eb-9d94-eb9cd06efde1.GIF)
 
