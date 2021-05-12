@@ -1,6 +1,6 @@
 # Image-Steganography-Graduation-project-2019
  
-![Uploading 0_rLECUN69yVKuX0nQ.png…]()
+![0_rLECUN69yVKuX0nQ](https://user-images.githubusercontent.com/52346253/117952603-9c209c00-b315-11eb-86f9-0ecbaf1a1250.png)
 
  --------------------------------------------
  # Abstract:
@@ -39,72 +39,87 @@ Mostafa Mohamed Ahmed Mohamed El Marghany
 
 Mahmoud Ahmed Abdel-Samad
 
--------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------
 # Image Steganography Techniques
+---------------------------------
 ![image](https://user-images.githubusercontent.com/52346253/117949145-1b13d580-b312-11eb-9173-53591502d3cc.png)
 
+-----------------------------------------------------------------------------------------------------------------
 # F5 Technique Implementation
+-----------------------------
 ![image](https://user-images.githubusercontent.com/52346253/117949366-57dfcc80-b312-11eb-8480-d34b3cd9c58a.png)
 
+-----------------------------------------------------------------------------------------------------------------
 # F5 Technique Execution by Java
-Algorithm
+--------------------------------
+   # Algorithm
+   
 ![image](https://user-images.githubusercontent.com/52346253/117949510-7c3ba900-b312-11eb-84c5-1699a1d34e21.png)
 Project Structure
- Baseline JPEG Encoding
-![image](https://user-images.githubusercontent.com/52346253/117949559-878ed480-b312-11eb-9e55-841a244536f4.png)
-
-# PSNR scales the MSE according to the image range 
-![image](https://user-images.githubusercontent.com/52346253/117951270-4dbecd80-b314-11eb-9c7c-172b3ce4bc23.png)
 
 --------------------------------------------------------------------------------------------------------------------
 # Application’s User interface for F5 Techniques
+------------------------------------------------
 ![image](https://user-images.githubusercontent.com/52346253/117949803-cae94300-b312-11eb-9938-3e2ad39413a7.png)
-
-1- Embedder form                 2- Select embed image           3- Selected embed image  
-4- Embed password                5- Embed text file              6- Embed text file content 
-7- Output image file name        8- Embed button                 9- Extractor form   
-10- Select extract image        11- Selected extract image       12- Extract password 
-13- Output text file name       14- Extract button               15- Extracted text
-16- PSNR calculation
 
 ![image](https://user-images.githubusercontent.com/52346253/117950371-67134a00-b313-11eb-9a7e-c40a2d6daef0.png)
 
-1- Window to display testing of image and show details for each test.    2- Place that display details as table.
-3- Bottom Refresh data when update file.                                 4- Bottom Clear to delete all data of file.
-
 ----------------------------------------------------------------------------------------------------------------------
 # Compare between different size of hiding message inside the cover Image
+--------------------------------------------------------------------------
+
+   # PSNR scales the MSE according to the image range 
+   ---------------------------------------------------
+![image](https://user-images.githubusercontent.com/52346253/117951270-4dbecd80-b314-11eb-9c7c-172b3ce4bc23.png)
+
+   # Compare Size
+   --------------
 ![image](https://user-images.githubusercontent.com/52346253/117950604-a5a90480-b313-11eb-8902-271431648665.png)
 
-   Conclusion:
-   o PSNR Decrease when text Increase.
-   o Size Image Decrease when Text Increase.
+    Conclusion:
+    > PSNR Decrease when text Increase.
+    > Size Image Decrease when Text Increase.
    
-# Histogram for images
+
+   # Histogram for images
+    ----------------------
 ![image](https://user-images.githubusercontent.com/52346253/117950739-cc673b00-b313-11eb-8915-19bce7c158a5.png)
 
 -------------------------------------------------------------------------------------------------------------------------
--------------------------------------------------------------------------------------------------------------------------
 # Application’s User interface for LSB Techniques
-LSB-Implementation: “Hide” Window
+-------------------------------------------------
+
+   # LSB-Implementation: “Hide” Window
+   -----------------------------------
+   
 ![image](https://user-images.githubusercontent.com/52346253/117950982-033d5100-b314-11eb-94b7-a9c11d62e4dd.png)
 
-LSB-Implementation: “Extract” Window
+   # LSB-Implementation: “Extract” Window
+   --------------------------------------
+   
 ![image](https://user-images.githubusercontent.com/52346253/117951047-12240380-b314-11eb-824c-b2f86f763a3d.png)
 
-# Hide message with length 500 character
-PSNR = 72.3203
+   # Hide message with length 500 character
+   ----------------------------------------
+   PSNR = 72.3203
+   
 ![image](https://user-images.githubusercontent.com/52346253/117951425-72b34080-b314-11eb-9126-7bb8a4df3c52.png)
 
-# Hide message with length 4000 character
-PSNR = 61.9974
+   # Hide message with length 4000 character
+   -----------------------------------------
+   PSNR = 61.9974
+   
 ![image](https://user-images.githubusercontent.com/52346253/117951517-89599780-b314-11eb-8d13-feb2c756cb1d.png)
 
-# Hide message with length 32000 character
-PSNR = 52.5338
+   # Hide message with length 32000 character
+   ------------------------------------------
+   PSNR = 52.5338
+
 ![image](https://user-images.githubusercontent.com/52346253/117951593-9a0a0d80-b314-11eb-9630-74d32c7e845f.png)
 
-# Compare between different size of hiding message inside the cover Image
+   # Compare between different size of hiding message inside the cover Image
+   -------------------------------------------------------------------------
+
 ![Compare](https://user-images.githubusercontent.com/52346253/117952124-23214480-b315-11eb-9d94-eb9cd06efde1.GIF)
 
 
