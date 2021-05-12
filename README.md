@@ -12,7 +12,7 @@
      ENG. Aya Adel
 ----------------------------------------------------------------
 # TEAM Leader:
-    Mahmoud Adly Abdel - Zaher Ahmed
+    Mahmoud Adly Abdel-Zaher Ahmed
 ----------------------------------------------------------------
 # Who carried out the project:
 
