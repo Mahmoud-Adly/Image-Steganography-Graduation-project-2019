@@ -79,9 +79,7 @@
    ![image](https://user-images.githubusercontent.com/52346253/117950604-a5a90480-b313-11eb-8902-271431648665.png)
 
     Conclusion
-  
-    > PSNR Decrease when text Increase
-    > Size Image Decrease when Text Increase
+   > PSNR Decrease when text Increase          > Size Image Decrease when Text Increase
    
     Histogram for images
  
