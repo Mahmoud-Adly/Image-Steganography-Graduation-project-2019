@@ -55,7 +55,6 @@ Mahmoud Ahmed Abdel-Samad
    # Algorithm
    
 ![image](https://user-images.githubusercontent.com/52346253/117949510-7c3ba900-b312-11eb-84c5-1699a1d34e21.png)
-Project Structure
 
 --------------------------------------------------------------------------------------------------------------------
 # Application’s User interface for F5 Techniques
