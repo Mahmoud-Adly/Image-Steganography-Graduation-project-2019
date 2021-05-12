@@ -80,8 +80,8 @@
 
     Conclusion
    
-     PSNR Decrease when text Increase
-     Size Image Decrease when Text Increase
+    PSNR Decrease when text Increase
+    Size Image Decrease when Text Increase
    
     Histogram for images
  
